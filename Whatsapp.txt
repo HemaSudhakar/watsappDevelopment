@@ -5,3 +5,6 @@ This is Watsappcode:
 3.last screen code.
 4.Attachement  (Image, video, audio,)
 7.hiding last seen
+
+8.Adding the audio feature
+9.Adding the video cal feature
